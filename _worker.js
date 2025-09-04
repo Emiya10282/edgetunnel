@@ -1,10 +1,10 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
-let proxyIP = '';
+let userID = '056491c3-77db-4256-81fe-3f0693806907';
+let proxyIP = 'proxyip.cmliussss.net';
 let DNS64Server = '';
-//let sub = '';
+//let sub = 'owo.o00o.ooo';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
 let subProtocol = 'https';
@@ -4568,3 +4568,4 @@ async function nginx() {
 	`
     return text;
 }
+
